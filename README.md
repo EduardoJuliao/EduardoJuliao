@@ -10,7 +10,7 @@
 - ⚡ I love to play guitar and stream on twitch!
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12153993081)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Eduardo Julião Spotify Playing" width="350" />](https://open.spotify.com/user/12153993081)
 
 ### Connect with me:
 
