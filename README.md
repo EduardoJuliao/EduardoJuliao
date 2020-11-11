@@ -41,6 +41,6 @@
 <br />
 
 
-[twitter]: https://twitter.com/Eduardo_Juliao
+[twitter]: https://twitter.com/MonsieurXuxu
 [instagram]: https://www.instagram.com/eduardo_juliao/
 [linkedin]: https://www.linkedin.com/in/eduardo-julião-junior-4493423a/
