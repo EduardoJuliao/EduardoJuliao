@@ -12,6 +12,8 @@
 [<img align="left" alt="Eduardojuliao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Eduardojuliao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Eduardojuliao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Eduardojuliao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][Blog]
+
 
 <br />
 
@@ -39,3 +41,4 @@
 [twitter]: https://twitter.com/MonsieurXuxu
 [instagram]: https://www.instagram.com/eduardo_juliao/
 [linkedin]: https://www.linkedin.com/in/eduardo-julião-junior-4493423a/
+[Blog]: https://xuxudevchronicle.com/
